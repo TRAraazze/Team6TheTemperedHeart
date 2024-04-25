@@ -1,5 +1,7 @@
  KNOWN BUGS------------------------------------------------------------------------------------------
 
+Custom mouse cursor may be off by a bit in some scenes.
+
 Spider enemy goes backwards when wandering.
 
 Occasionally, the player will spawn at the default spawn position when transitioning between scenes.
