@@ -1,5 +1,7 @@
  KNOWN BUGS------------------------------------------------------------------------------------------
 
+Sometimes when respawning at a checkpoint, player might be floating until you move.
+
 Custom mouse cursor may be off by a bit in some scenes.
 
 Spider enemy goes backwards when wandering.
